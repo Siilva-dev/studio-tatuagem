@@ -15,8 +15,8 @@ export default function Rodape() {
                     </div>
                     <div className="flex flex-col gap-1 items-center md:items-start">
                         <span className="text-2xl text-zinc-300 font-bold mb-2.5">Contato</span>
-                        <span className="text-sm text-zinc-400">Marcianoaz09123a@gmail.com</span>
-                        <a href="https://wa.me/556492627459" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-zinc-400">
+                        <span className="text-sm text-zinc-400">agenciakyng@gmail.com</span>
+                        <a href="https://wa.me/556492007085" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-sm text-zinc-400">
                             <IconBrandWhatsapp size={20} className="text-green-500" /> {/* Ícone do WhatsApp */}
                             <span>Whatsapp</span>
                         </a>
